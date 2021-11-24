@@ -1,4 +1,4 @@
-# Dasafio Calculadora Mobile
+# Desafio Calculadora Mobile
 
 Você sabia que a calculadora foi inventada em 1642 e passou por grandes mudanças pelo Blaise Pascal? Isso mesmo, Pascal! O matemático que teve como homenagem seu nome em uma linguagem de programação. 
 
